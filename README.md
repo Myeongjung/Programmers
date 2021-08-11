@@ -11,4 +11,5 @@ Contains my solutions for Programmers problems
 
 | idx |Question|File Name|
 |:---:|:------:|:-------:|
-|  1  |[Week 1](https://programmers.co.kr/learn/courses/30/lessons/82612) | [Week 1](https://github.com/Myeongjung/Programmers/blob/main/Weekly%Challenge/Week%1.py) |
+|  1  |[Week 1](https://programmers.co.kr/learn/courses/30/lessons/82612) | [Week 1](https://github.com/Myeongjung/Programmers/blob/main/Weekly%20Challenge/Week%201.py) |
+
