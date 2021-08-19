@@ -7,7 +7,7 @@ Contains my solutions for Programmers problems
 |1   | [Weekly Challenge](#1-weekly-challenge) 						 | In progress |
 
 ## 1. Weekly Challenge
-(based on Python 3) 
+(based on Python 3)
 
 | idx |Question|File Name|
 |:---:|:------:|:-------:|
