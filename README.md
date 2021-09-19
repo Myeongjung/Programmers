@@ -16,3 +16,5 @@ Contains my solutions for Programmers problems
 |  3  |[Week 3](https://programmers.co.kr/learn/courses/30/lessons/84021) | [Week 3](https://github.com/Myeongjung/Programmers/blob/main/Weekly%20Challenge/Week%203.py) |
 |  4  |[Week 4](https://programmers.co.kr/learn/courses/30/lessons/84325) | [Week 4](https://github.com/Myeongjung/Programmers/blob/main/Weekly%20Challenge/Week%204.py) |
 |  5  |[Week 5](https://programmers.co.kr/learn/courses/30/lessons/84512) | [Week 5](https://github.com/Myeongjung/Programmers/blob/main/Weekly%20Challenge/Week%205.py) |
+|  6  |[Week 6](https://programmers.co.kr/learn/courses/30/lessons/85002) | [Week 6](https://github.com/Myeongjung/Programmers/blob/main/Weekly%20Challenge/Week%206.py) |
+|  7  |[Week 7](https://programmers.co.kr/learn/courses/30/lessons/86048) | [Week 7](https://github.com/Myeongjung/Programmers/blob/main/Weekly%20Challenge/Week%207.py) |
