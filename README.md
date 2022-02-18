@@ -2,8 +2,8 @@
 Contains my solutions for Programmers problems
 
 ## Table of contents
-|idx | Contents 																		 | Status	   | 
-|:--:|:--------------------------------------------------------------------|:------------|
+|idx | Contents 													 | Status	   | 
+|:--:|:--------------------------------------------------------------|:------------|
 |1   | [Weekly Challenge](#1-weekly-challenge) 						 | Completed |
 
 ## 1. Weekly Challenge
